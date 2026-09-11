@@ -4,7 +4,7 @@ I am looking for **AI application development roles in China**. My academic back
 
 My projects bring together machine learning experiments, web application development and research software. I am interested in turning models into useful applications with clear interfaces, reproducible evaluation and maintainable code.
 
-中文简介：本科人工智能、硕士高级计算机科学背景，求职方向为国内 AI 应用开发。这里展示我的图像分类实验、团队 Web 项目和计算研究，以及对应的代码、报告和运行说明。
+本科人工智能、硕士高级计算机科学背景，求职方向为国内 AI 应用开发。这里展示我的图像分类实验、团队 Web 项目和计算研究，以及对应的代码、报告和运行说明。
 
 [Browse all projects](https://github.com/yongjiang-niuniu/academic-project-portfolio) · [Coursework and submission archive](https://github.com/yongjiang-niuniu/academic-project-archive) · [Email](mailto:yongjiangliu129@gmail.com)
 
